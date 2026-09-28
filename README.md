@@ -24,7 +24,7 @@
 - 🤖 Ex **Agentic AI Intern @ EY** — built multi-agent LangGraph system with **82% routing accuracy** and 3-model LLM fallback
 - 🔬 **Research Intern @ University of Oulu, Finland** — hybrid BM25 + dense retrieval pipeline improved shortlisting precision by **35%**
 - 🧠 Built @ **Insurge.AI** — full-stack multi-tenant AI onboarding platform with VLM-based slide generation using FastAPI + Qdrant
-- 🏆 **SIH 2025 Finalist** — FieldSync | 🌟 **Top 3,000 / 134,421** at Amazon ML Summer School 2026
+- 🏆 **SIH 2025** — FieldSync | 🌟 **Top 3,000 / 134,421** at Amazon ML Summer School 2026
 - 🚀 Focused on **backend optimisation**, **high-concurrency systems**, and **Agentic AI orchestration**
 - 📫 Open to **SWE / MLE / AI Engineering** roles — Graduating **2027**
 
@@ -162,7 +162,7 @@ End-to-end CV pipeline for **automated student attendance** via face recognition
 ### 🌾 FieldSync — Smart India Hackathon 2025 &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
 6-service crop-residue logistics platform. K-Means + Haversine clustering + Google OR-Tools route optimisation + IoT telemetry (Redis, PostgreSQL, SocketIO) for live machinery tracking.
 
-**SIH 2025 Finalist · 30% less transit time · 22% fuel cost reduction**
+**SIH 2025 · 30% less transit time · 22% fuel cost reduction**
 
 `Node.js` `PostgreSQL` `Redis` `Google OR-Tools` `K-Means` `SocketIO`
 
@@ -174,6 +174,15 @@ Extreme class imbalance — 492 fraud vs 284,807 legit. SMOTE + RandomUnderSampl
 **ROC-AUC 0.98 · XGBoost outperforms all baselines**
 
 `XGBoost` `SMOTE` `Scikit-Learn` `Pandas`
+
+---
+
+### 📊 Walmart Store Sales Forecasting &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+End-to-end time-series pipeline for **421K+ sales records** across 45 stores and 143 weeks. Benchmarked ARIMA, SARIMA models with walk-forward CV. Granger Causality + Aggregation Paradox analysis.
+
+**6.78% MAPE (SARIMA) · Aggregation Paradox proven · $590k → $366k RMSE impact**
+
+`Python` `ARIMA` `SARIMA` `Granger Causality` `Statsmodels` `Pandas`
 
 ---
 
@@ -210,7 +219,7 @@ Extreme class imbalance — 492 fraud vs 284,807 legit. SMOTE + RandomUnderSampl
 | | Achievement | Details |
 |-|------------|---------|
 | 🌟 | **Amazon ML Summer School 2026** | Top **3,000** / 134,421 applicants |
-| 🏆 | **Smart India Hackathon 2025** | Finalist — FieldSync Crop Logistics Platform |
+| 🏆 | **Smart India Hackathon 2025** | Participant — FieldSync Crop Logistics Platform |
 | 🟡 | **LeetCode Guardian** | Rank **45 Globally** in Biweekly Contest 189 |
 | 🟣 | **Codeforces Expert** | Rank **373** in Codeforces Round 1118 |
 | 🎓 | **IIT Kharagpur** | CGPA **8.27 / 10** — B.Tech + AI Specialization |
