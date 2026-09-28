@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I%27m+Sagnik+De+%F0%9F%91%8B;IIT+Kharagpur+%7C+Industrial+Engg+%2B+AI+%2F+ML;Full+Stack+%7C+Systems+%7C+ML+%7C+Agentic+AI;Expert+%40+Codeforces+%7C+Guardian+%40+LeetCode" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi!+I%27m+Sagnik+De+%F0%9F%91%8B;IIT+Kharagpur+%7C+Industrial+Engg+%2B+AI;Full+Stack+%7C+Systems+%7C+ML+%7C+Agentic+AI;Expert+%40+Codeforces+%7C+Guardian+%40+LeetCode" alt="Typing SVG" />
 
 <br/>
 
@@ -17,219 +17,167 @@
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-### `B.Tech (Hons.) � IIT Kharagpur � Industrial Engineering + AI` &nbsp;|&nbsp; `CGPA: 8.27 / 10`
-### Open to **SWE / MLE / AI Engineering** Roles � Graduating **2027**
-
-</div>
-
----
-
-## About Me
-
-- **IIT Kharagpur** � Industrial Engineering with Micro Specialization in **AI & Applications**
-- Built a **C++17 in-memory DB** sustaining **28,000 RPS** � a **real-time CRDT CV editor** cutting DB writes by **86%** � an **LLM-powered AI Interviewer**
-- Worked at **EY � Webyalaya � Insurge.AI � GloballyGi** and researched at **University of Oulu, Finland**
-- **Expert** @ Codeforces � **Guardian** @ LeetCode � **Top 3,000 / 134,421** at **Amazon ML Summer School 2026**
-- Passionate about **High-Performance Systems**, **Agentic AI**, **LLM Orchestration**, and **ML at Scale**
+- 🏛️ Pursuing **B.Tech (Hons.) in Industrial Engineering** at **IIT Kharagpur** — Micro Specialization in **AI & Applications** | CGPA **8.27 / 10**
+- 💼 Ex **Full Stack Intern @ Webyalaya** — async AWS ECS + BullMQ pipeline cut API response times from **1200ms → 700ms**
+- 🤖 Ex **Agentic AI Intern @ EY** — built multi-agent LangGraph system with **82% routing accuracy** and 3-model LLM fallback
+- 🔬 **Research Intern @ University of Oulu, Finland** — hybrid BM25 + dense retrieval pipeline improved shortlisting precision by **35%**
+- 🧠 Built @ **Insurge.AI** — full-stack multi-tenant AI onboarding platform with VLM-based slide generation using FastAPI + Qdrant
+- 🏆 **SIH 2025 Finalist** — FieldSync | 🌟 **Top 3,000 / 134,421** at Amazon ML Summer School 2026
+- 🚀 Focused on **backend optimisation**, **high-concurrency systems**, and **Agentic AI orchestration**
+- 📫 Open to **SWE / MLE / AI Engineering** roles — Graduating **2027**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,express,fastapi,flask,tailwind" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,docker,aws,grafana,prisma" />
+</p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0078D4?style=flat-square&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
+</p>
 
-**Frameworks & Libraries**
-
-<p><img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,express,fastapi,flask,tailwind" /></p>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Databases & DevOps**
-
-<p><img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,docker,aws,grafana,prisma" /></p>
-
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0078D4?style=flat-square&logo=meta&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![SocketIO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-
-> *Also: Mistral � Azure AI � Wav2Vec2 � YOLOv8 � ARIMA/SARIMA � Tavily � Winsock2 � Celery*
+> Also specialising in: **LangGraph · FAISS · Qdrant · Winsock2 · BullMQ · Wav2Vec2 · YOLOv8 · Tavily · Celery**
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Agentic AI Intern � EY Global Delivery Services India LLP
-`May 2026 � Jul 2026`
+### 🤖 Agentic AI Intern — EY Global Delivery Services India LLP &nbsp; `May 2026 – Jul 2026`
 
-- Architected a **supervisor-worker multi-agent system** using LangGraph StateGraph + ToolNode for Contract Management on FastAPI & MongoDB
-- Designed a **hybrid React + deterministic risk engine** with Mistral-Large-3 (Azure AI) achieving **82% routing accuracy** with 5-factor WMA scoring
-- Built an always-on compliance monitor using **SHA-256 fingerprinting + JsonOutputParser**, cutting LLM inference calls by **65%** and latency by **40%**
-- Implemented risk-gated **HITL renewal workflow** via LangGraph MemorySaver + CoT/few-shot prompting � boosted clause extraction F1-score by **18%**
+Architected a **supervisor-worker multi-agent system** using LangGraph StateGraph + ToolNode for Contract Management on FastAPI & MongoDB. Hybrid React + deterministic risk engine with Mistral-Large-3 (Azure AI).
+
+- 📊 **82% routing accuracy** with custom 5-factor WMA deterministic scoring
+- ⏱️ Cut LLM inference calls by **65%** and latency by **40%** via SHA-256 fingerprinting + JsonOutputParser
+- 📈 Boosted clause extraction F1-score by **18%** via risk-gated HITL + CoT/few-shot prompting
 
 `LangGraph` `Mistral` `Azure AI` `FastAPI` `MongoDB` `CoT Prompting`
 
 ---
 
-### Data Science Intern � GloballyGi *(Baby Cry Cause Detection)*
-`Jan 2026 � Jul 2026`
+### 🔬 Data Science Intern — GloballyGi *(Baby Cry Cause Detection)* &nbsp; `Jan 2026 – Jul 2026`
 
-- Extracted audio features (MFCC, Mel-spectrogram, Chroma, Spectral Contrast, Tonnetz) via **Librosa** and **Wav2Vec2** embeddings
-- Trained **CNN, LSTM & SVM** classifiers with hyperparameter tuning, achieving **87% test accuracy** with the best-performing SVM model
-- Built an **active retraining pipeline** on GitHub Actions triggered by new data thresholds, with Brevo email alerts on model promotion/failure
-- Deployed a **Flask REST API** with hot-swap model loading + a **React Native** app with a live promotion gate
+End-to-end audio ML pipeline extracting MFCC, Mel-spectrogram, Chroma, Spectral Contrast, Tonnetz features via **Librosa + Wav2Vec2**. Trained CNN, LSTM & SVM classifiers with hyperparameter tuning.
 
-`Python` `Librosa` `Wav2Vec2` `CNN` `LSTM` `SVM` `Flask` `React Native` `GitHub Actions`
+- 🎯 **87% test accuracy** with best-performing deployed SVM model
+- 🔄 Active **retraining pipeline** on GitHub Actions triggered by new data thresholds with Brevo email alerts
+- 📱 Deployed **Flask REST API** + **React Native** app with live model promotion gate
 
----
-
-### Full Stack Developer Intern � Webyalaya
-`Nov 2025 � Feb 2026`
-
-- Architected a highly scalable **async AWS ECS pipeline** (NestJS, Redis, BullMQ) reducing Core API response times from **1200ms ? 700ms**
-- Deployed an EC2 **observability stack** (Prometheus, Grafana, Sentry) for proactive real-time monitoring and swift incident resolution
-- Engineered an idempotent **Razorpay gateway** with atomic DB operations and webhooks, ensuring reliability and preventing double payments
-- Optimised live transcription using **React Refs** to debounce Web Speech API streams, reducing redundant network calls by **60% without lag**
-
-`NestJS` `AWS ECS` `Redis` `BullMQ` `Prometheus` `Grafana` `PostgreSQL` `Razorpay`
+`Python` `Librosa` `Wav2Vec2` `CNN` `LSTM` `SVM` `Flask` `React Native`
 
 ---
 
-### Software Development Intern � Insurge.AI
-`Feb 2026 � Apr 2026`
+### 💻 Full Stack Developer Intern — Webyalaya &nbsp; `Nov 2025 – Feb 2026`
 
-- Built a **full-stack multi-tenant client onboarding platform** using FastAPI, PostgreSQL, and Qdrant for enterprise conversational AI deployments
-- Developed tenant management, knowledge base creation and outreach configuration modules **streamlining multi-tenant AI setup workflows**
-- Reduced customer onboarding time to **under 5 minutes** by fully automating slide management and end-to-end communication
-- Engineered **VLM-based slide generation** and knowledge retrieval pipelines for automated meeting presentations from client knowledge bases
+Architected a highly scalable **async AWS ECS pipeline** (NestJS, Redis, BullMQ) with EC2 observability stack (Prometheus, Grafana, Sentry). Idempotent Razorpay gateway with atomic DB operations.
 
-`FastAPI` `PostgreSQL` `Qdrant` `VLM` `Multi-tenancy` `Python`
+- ⚡ API response times slashed: **1200ms → 700ms** (42% reduction)
+- 📉 Reduced redundant transcription network calls by **60%** via React Refs debouncing Web Speech API
+- 🔗 Integrated Google Calendar sync via Clerk OAuth for automated attendee management
 
----
-
-### AI Research Intern � University of Oulu, Finland
-`May 2025 � Jul 2025`
-
-- Built a **hybrid retrieval pipeline** (BM25 + Dense Embeddings + Pinecone) with **BGE cross-encoder reranking** for semantic researcher-to-role matching
-- Improved **shortlisting precision by 35%** via a two-stage hard-filter and hybrid-rank candidate scoring system using a **multi-agent classifier**
-- Integrated **multi-source researcher profiling** from OpenReview, LinkedIn, and personal sites with JD parsing via live **web-augmented agents**
-
-`LangGraph` `FAISS` `Pinecone` `BM25` `BGE` `RAG` `Multi-Agent` `Python`
+`NestJS` `AWS ECS` `Redis` `BullMQ` `Prometheus` `Grafana` `Razorpay`
 
 ---
 
-## Featured Projects
+### 🧠 Software Development Intern — Insurge.AI &nbsp; `Feb 2026 – Apr 2026`
 
-### Real-time Collaborative CV Builder &nbsp;�&nbsp; `Jul 2025 � Oct 2025`
-> Conflict-free collaborative editor powered by **Yjs CRDTs + WebSockets** with binary state-vector deltas for real-time multi-user sync.
+Built a **full-stack multi-tenant client onboarding platform** using FastAPI, PostgreSQL, and Qdrant for enterprise conversational AI. VLM-based slide generation + knowledge retrieval pipelines.
 
-- Reduced network payloads by **83%** via sub-millisecond in-memory reconciliation
-- **BullMQ write-behind persistence layer** � cut synchronous DB writes by **86%**
-- Fortified with **1-second fsync** and **86,400-slot O(1) timing wheel**, minimising data loss under load
+- ⏱️ Customer onboarding time slashed to **under 5 minutes** via full workflow automation
+- 📚 **VLM-based knowledge retrieval** for automated client-facing presentation generation
+
+`FastAPI` `PostgreSQL` `Qdrant` `VLM` `Python`
+
+---
+
+### 🎓 AI Research Intern — University of Oulu, Finland &nbsp; `May 2025 – Jul 2025`
+
+**Hybrid retrieval pipeline** (BM25 + Dense Embeddings + Pinecone) with BGE cross-encoder reranking for semantic researcher-to-role matching using live web-augmented multi-agent profiling.
+
+- 🎯 Improved **shortlisting precision by 35%** via two-stage hard-filter + hybrid-rank candidate scoring
+- 🌐 Multi-source profiling from OpenReview, LinkedIn & personal sites with live JD parsing via web agents
+
+`LangGraph` `FAISS` `Pinecone` `BM25` `BGE` `RAG` `Multi-Agent`
+
+---
+
+## 🚀 Featured Projects
+
+### ⚡ Real-time Collaborative CV Builder &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+Conflict-free collaborative editor powered by **Yjs CRDTs + WebSockets** with binary state-vector deltas. BullMQ write-behind persistence layer eliminates synchronous DB bottlenecks.
+
+**83% payload reduction · 86% fewer DB writes · O(1) timing wheel for durability**
 
 `WebSockets` `Yjs CRDTs` `BullMQ` `MongoDB` `Node.js`
 
 ---
 
-### InMemoryDB &nbsp;�&nbsp; `May 2025 � Jun 2025`
-> **C++17 RESP in-memory key-value store** � a Redis clone built from scratch with non-blocking Winsock2 reactor and SPMC worker pool.
+### 🧠 InMemoryDB &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+High-performance **C++17 RESP in-memory key-value store** — a Redis clone from scratch. Non-blocking Winsock2 reactor + SPMC worker pool architecture, with 64-shard rate limiter.
 
-- Sustained peak **28,000 RPS** under a **1-million-request, 1,000-client chaos test** with zero errors
-- Achieved **p50 = 0.4ms** and **p99 = 1.2ms** at **62x client scale**
-- 64-shard bucket-rate limiter + dual-threshold OOM guard with proactive eviction at **85% capacity**
+**28,000 RPS peak · p50 = 0.4ms · p99 = 1.2ms · 1M-request chaos test passed**
 
 `C++17` `Winsock2` `SPMC` `RESP Protocol` `Systems Programming`
 
 ---
 
-### AI Interviewer &nbsp;�&nbsp; `Mar 2026 � Apr 2026`
-> Stateful **LangGraph + FastAPI** interviewer with Redis for seamless **sub-50ms WebSocket recovery** during network outages.
+### 🤖 AI Interviewer &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+Stateful **LangGraph + FastAPI** AI interviewer with Redis for sub-50ms WebSocket recovery. 3-model LLM fallback (Mistral → fallback chain) with FAISS + Tavily RAG for context injection.
 
-- Fault-tolerant LLM router with **3-model fallback** maintaining **85% uptime** and **40% cost reduction**
-- **FAISS + Tavily** for real-time context injection through a dynamic RAG pipeline
-- Adaptive Socratic system adjusting difficulty via continuous candidate scoring
+**85% uptime · 40% cost reduction · sub-50ms session recovery · adaptive difficulty**
 
-`LangGraph` `FastAPI` `Redis` `FAISS` `Tavily` `RAG` `WebSockets`
+`LangGraph` `FastAPI` `Redis` `FAISS` `Tavily` `RAG`
 
 ---
 
-### Smart Attendance System &nbsp;�&nbsp; `Aug 2025 � Sep 2025`
-> End-to-end computer vision pipeline for **automated student attendance** using face recognition at scale.
+### 📸 Smart Attendance System &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+End-to-end CV pipeline for **automated student attendance** via face recognition at scale. YOLOv8 detection + VGG-Face embeddings + DBSCAN clustering for robust cross-session identity matching.
 
-- Face recognition pipeline with **YOLOv8 + VGG-Face embeddings** tracking **200+ students** with **80% accuracy**
-- **Dynamic DBSCAN clustering** with correlation distance and grid-search tuning for robust identity grouping
-- Face embedding system using **DeepFace + OpenCV** for persistent registration and cross-session identity matching
-- **FastAPI endpoints + Celery workers** for background inference and automated **Excel report generation**
+**200+ students tracked · 80% accuracy · automated Excel report generation**
 
 `YOLOv8` `VGG-Face` `DeepFace` `OpenCV` `DBSCAN` `FastAPI` `Celery`
 
 ---
 
-### Walmart Store Sales Forecasting &nbsp;�&nbsp; `Aug 2025 � Sep 2025`
-> Time-series pipeline for **421K+ sales records** across 45 stores and 143 weeks.
+### 🌾 FieldSync — Smart India Hackathon 2025 &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+6-service crop-residue logistics platform. K-Means + Haversine clustering + Google OR-Tools route optimisation + IoT telemetry (Redis, PostgreSQL, SocketIO) for live machinery tracking.
 
-- 3 ARIMA models benchmarked with walk-forward CV � SARIMA achieved lowest error **(6.78% MAPE)**
-- Proved Aggregation Paradox: adding 5 granular markdown predictors degraded RMSE by **283% ($590k ? $366k)**
+**SIH 2025 Finalist · 30% less transit time · 22% fuel cost reduction**
 
-`Python` `ARIMA` `SARIMA` `Granger Causality` `Pandas`
+`Node.js` `PostgreSQL` `Redis` `Google OR-Tools` `K-Means` `SocketIO`
 
 ---
 
-### Credit Card Fraud Detection &nbsp;�&nbsp; `Jun 2025 � Jul 2025`
-> Extreme class imbalance � **492 fraud vs 284,807 legit** � tackled with SMOTE + RandomUnderSampler.
+### 💳 Credit Card Fraud Detection &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+Extreme class imbalance — 492 fraud vs 284,807 legit. SMOTE + RandomUnderSampler + XGBoost champion. Found that just 3 amount buckets (0, 1, 99.99) account for **33.94% of all fraud**.
 
-- **ROC-AUC of 0.98** using XGBoost, outperforming Logistic Regression, Decision Trees, and Random Forest
-- Found that amounts of 0, 1, and 99.99 make up **33.94% of all fraudulent transactions**
+**ROC-AUC 0.98 · XGBoost outperforms all baselines**
 
 `XGBoost` `SMOTE` `Scikit-Learn` `Pandas`
 
 ---
 
-### FieldSync � Smart India Hackathon 2025 &nbsp;�&nbsp; `Nov 2025 � Dec 2025`
-> 6-service crop-residue logistics platform with spatial clustering + route optimization + IoT telemetry.
-
-- **K-Means + Haversine** for optimised agricultural dispatch clustering
-- **Google OR-Tools** � cut transit time by **30%** and fleet fuel cost by **22%**
-- IoT telemetry pipeline (Python, Redis, PostgreSQL, SocketIO) for live machinery tracking
-
-`Node.js` `Express` `PostgreSQL` `Redis` `Google OR-Tools` `K-Means` `SocketIO`
-
----
-
-## Achievements
-
-| Achievement | Details |
-|------------|---------|
-| **Expert** � Codeforces | Competitive Programming |
-| **Guardian** � LeetCode | Competitive Programming |
-| **Rank 45 Globally** | LeetCode Biweekly Contest 189 |
-| **Rank 373** | Codeforces Round 1118 |
-| **Top 3,000 / 134,421** | Amazon ML Summer School 2026 |
-| **Smart India Hackathon 2025** | FieldSync � Crop Logistics Platform |
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -246,23 +194,35 @@
 
 ---
 
-## Competitive Programming
+## ⚔️ Competitive Programming
 
-<div align="center">
+| Platform | Handle | Rank |
+|----------|--------|------|
+| LeetCode | [DipSagnik](https://leetcode.com/u/DipSagnik/) | 🟡 **Guardian** |
+| Codeforces | [sagnikde191](https://codeforces.com/profile/sagnikde191) | 🟣 **Expert** |
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert%20%7C%20Rank%20373%20in%20Round%201118-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sagnikde191)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian%20%7C%20Rank%2045%20Globally%20(Biweekly%20%23189)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DipSagnik/)
-
-</div>
+🏅 **Rank 45 Globally** — LeetCode Biweekly Contest 189 &nbsp;|&nbsp; 🏅 **Rank 373** — Codeforces Round 1118
 
 ---
 
-## Education
+## 🏆 Milestones & Highlights
+
+| | Achievement | Details |
+|-|------------|---------|
+| 🌟 | **Amazon ML Summer School 2026** | Top **3,000** / 134,421 applicants |
+| 🏆 | **Smart India Hackathon 2025** | Finalist — FieldSync Crop Logistics Platform |
+| 🟡 | **LeetCode Guardian** | Rank **45 Globally** in Biweekly Contest 189 |
+| 🟣 | **Codeforces Expert** | Rank **373** in Codeforces Round 1118 |
+| 🎓 | **IIT Kharagpur** | CGPA **8.27 / 10** — B.Tech + AI Specialization |
+| 📐 | **Class X — WBBSE** | **97.14%** — Top of batch |
+
+---
+
+## 📚 Education
 
 | Year | Degree / Exam | Institute | Score |
 |------|--------------|-----------|-------|
-| 2027 | B.Tech (Hons.) � Industrial Engineering + AI | **IIT Kharagpur** | **8.27 / 10** |
+| 2027 | B.Tech (Hons.) — Industrial Engineering + AI | **IIT Kharagpur** | **8.27 / 10** |
 | 2023 | WBCHSE (Class XII) | Asansol Collegiate School | **88%** |
 | 2021 | WBBSE (Class X) | Raghunatpur G D Lang Institution | **97.14%** |
 
@@ -270,13 +230,13 @@
 
 <div align="center">
 
-### Let us Connect!
+### 💬 Let's Connect!
 
-*Open to SWE / MLE / AI Engineering roles � always up for a conversation about Systems, GenAI, and Competitive Programming.*
+*Open to SWE / MLE / AI Engineering roles — always up for conversations about Systems, GenAI, and CP.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagnik-de-15567a2a9/)
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+systems+that+scale.;Writing+code+that+matters.;Always+learning%2C+always+shipping." alt="Footer Typing SVG" />
 
