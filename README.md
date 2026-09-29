@@ -123,7 +123,7 @@ Built a **full-stack multi-tenant client onboarding platform** using FastAPI, Po
 
 ## 🚀 Featured Projects
 
-### ⚡ Real-time Collaborative CV Builder &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+### ⚡ Real-time Collaborative CV Builder &nbsp;·&nbsp; [repo](https://github.com/sagnikde16/CV-Builder)
 Conflict-free collaborative editor powered by **Yjs CRDTs + WebSockets** with binary state-vector deltas. BullMQ write-behind persistence layer eliminates synchronous DB bottlenecks.
 
 **83% payload reduction · 86% fewer DB writes · O(1) timing wheel for durability**
@@ -132,7 +132,7 @@ Conflict-free collaborative editor powered by **Yjs CRDTs + WebSockets** with bi
 
 ---
 
-### 🧠 InMemoryDB &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+### 🧠 InMemoryDB &nbsp;·&nbsp; [repo](https://github.com/sagnikde16/InMemoryDB)
 High-performance **C++17 RESP in-memory key-value store** — a Redis clone from scratch. Non-blocking Winsock2 reactor + SPMC worker pool architecture, with 64-shard rate limiter.
 
 **28,000 RPS peak · p50 = 0.4ms · p99 = 1.2ms · 1M-request chaos test passed**
@@ -141,7 +141,7 @@ High-performance **C++17 RESP in-memory key-value store** — a Redis clone from
 
 ---
 
-### 🤖 AI Interviewer &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+### 🤖 AI Interviewer &nbsp;·&nbsp; [repo](https://github.com/sagnikde16/AI-Interviewer)
 Stateful **LangGraph + FastAPI** AI interviewer with Redis for sub-50ms WebSocket recovery. 3-model LLM fallback (Mistral → fallback chain) with FAISS + Tavily RAG for context injection.
 
 **85% uptime · 40% cost reduction · sub-50ms session recovery · adaptive difficulty**
@@ -150,7 +150,7 @@ Stateful **LangGraph + FastAPI** AI interviewer with Redis for sub-50ms WebSocke
 
 ---
 
-### 📸 Smart Attendance System &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+### 📸 Smart Attendance System &nbsp;·&nbsp; [repo](https://github.com/sagnikde16/Smart-Attendance-Monitoring)
 End-to-end CV pipeline for **automated student attendance** via face recognition at scale. YOLOv8 detection + VGG-Face embeddings + DBSCAN clustering for robust cross-session identity matching.
 
 **200+ students tracked · 80% accuracy · automated Excel report generation**
@@ -159,7 +159,7 @@ End-to-end CV pipeline for **automated student attendance** via face recognition
 
 ---
 
-### 🌾 FieldSync — Smart India Hackathon 2025 &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+### 🌾 FieldSync — Smart India Hackathon 2025 &nbsp;·&nbsp; [repo](https://github.com/sagnikde16/SIH25-FieldSync)
 6-service crop-residue logistics platform. K-Means + Haversine clustering + Google OR-Tools route optimisation + IoT telemetry (Redis, PostgreSQL, SocketIO) for live machinery tracking.
 
 **SIH 2025 · 30% less transit time · 22% fuel cost reduction**
@@ -168,7 +168,7 @@ End-to-end CV pipeline for **automated student attendance** via face recognition
 
 ---
 
-### 💳 Credit Card Fraud Detection &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+### 💳 Credit Card Fraud Detection &nbsp;·&nbsp; [repo](https://github.com/sagnikde16/Credit-Card-Fraud-Detection)
 Extreme class imbalance — 492 fraud vs 284,807 legit. SMOTE + RandomUnderSampler + XGBoost champion. Found that just 3 amount buckets (0, 1, 99.99) account for **33.94% of all fraud**.
 
 **ROC-AUC 0.98 · XGBoost outperforms all baselines**
@@ -177,7 +177,7 @@ Extreme class imbalance — 492 fraud vs 284,807 legit. SMOTE + RandomUnderSampl
 
 ---
 
-### 📊 Walmart Store Sales Forecasting &nbsp;·&nbsp; [repo](https://github.com/sagnikde16)
+### 📊 Walmart Store Sales Forecasting &nbsp;·&nbsp; [repo](https://github.com/sagnikde16/Walmart-Project)
 End-to-end time-series pipeline for **421K+ sales records** across 45 stores and 143 weeks. Benchmarked ARIMA, SARIMA models with walk-forward CV. Granger Causality + Aggregation Paradox analysis.
 
 **6.78% MAPE (SARIMA) · Aggregation Paradox proven · $590k → $366k RMSE impact**
